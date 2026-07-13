@@ -1,0 +1,4 @@
+UrsacheWirkung = 6d × 360° × Lage × Raum × Achse
+SchwächeScan = 6d × 360° × RAW
+HundertScan = 100 × Achse × Lage × Raum
+360Scan = 360° × Achse × Lage × Raum
